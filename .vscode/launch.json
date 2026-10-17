@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "type": "node", "request": "launch", "name": "Dev server (localhost:3000)", "program": "${workspaceFolder}/scripts/dev-server.js", "console": "integratedTerminal" },
+    { "type": "node", "request": "launch", "name": "Run tests", "program": "${workspaceFolder}/scripts/run-tests.js", "console": "integratedTerminal" }
+  ]
+}
