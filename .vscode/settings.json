@@ -1,0 +1,1 @@
+{ "editor.formatOnSave": false, "files.eol": "\n", "search.exclude": { "node_modules": true, "smoke-out": true } }
